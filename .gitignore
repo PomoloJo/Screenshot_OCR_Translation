@@ -1,0 +1,8 @@
+/config.ini
+/config.backup.ini
+/build/
+/dist/
+/venv/
+/.idea/
+/__pycache__/
+/API_INFO.txt
